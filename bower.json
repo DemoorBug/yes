@@ -1,0 +1,21 @@
+{
+  "name": "yes",
+  "description": "README.md",
+  "main": "index.js",
+  "authors": [
+    "DemoorBug <1004041672@qq.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "markdown": "^0.5.0"
+  }
+}
